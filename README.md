@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Ariel.
-<h3>I'm a Full Stack Web Developer</h3>
+### Welcome! 👋, my name is Ariel.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -13,6 +12,8 @@
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<h3>My latest project: DriveIn</h3>
 
 <!--
 **arielbg00/arielbg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
