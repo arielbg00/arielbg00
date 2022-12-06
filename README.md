@@ -15,7 +15,8 @@
 
 <h3>My latest project: DriveIn</h3>
 <img src="https://res.cloudinary.com/di7rzimll/image/upload/c_scale,h_1265/v1670340904/unknown_2022.12.06-12.22_o2c5ez.png" alt="drivein"/>
-<h3>Link to the application:</h3><a href="https://drivein.vercel.app/" target="_blank"> <img src="https://res.cloudinary.com/di7rzimll/image/upload/v1670344067/driveincolores_Mesa_de_trabajo_1_ghbzmw.png" alt="drivein" width="160"/> </a>
+<h3>Link to the application:</h3>
+<a href="https://drivein.vercel.app/" target="_blank"> <img src="https://res.cloudinary.com/di7rzimll/image/upload/v1670344067/driveincolores_Mesa_de_trabajo_1_ghbzmw.png" alt="drivein" width="160"/> </a>
 
 <!--
 **arielbg00/arielbg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
