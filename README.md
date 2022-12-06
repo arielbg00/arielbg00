@@ -15,7 +15,7 @@
 
 <h3>My latest project: DriveIn</h3>
 <img src="https://res.cloudinary.com/dbmhbouib/image/upload/v1670325208/ktdmt2jpgbofo9ohknzd.jpg" alt="drivein"/>
-<a href="https://drivein.vercel.app/" target="_blank"> <h3>Link to the application</h3> </a>
+<a href="https://drivein.vercel.app/" > <h3>Link to the application</h3> </a>
 
 <!--
 **arielbg00/arielbg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
